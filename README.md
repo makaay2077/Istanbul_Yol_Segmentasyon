@@ -7,4 +7,3 @@ Veri Seti : https://www.kaggle.com/datasets/ozanozturk61/istanbul-road-dataset
 
 Not:Paylaşılan veri setinde her biri 10 000 'er adet görüntü ve maske olan 4 ayrı bölüm var. 14. bölümde görüntü ve maske sayısı uyuşumsuzluğu olduğu için hata veriyor.  Bu çalışmamda eğitim ve doğrulama için 15. bölümü , test için 17. bölümü kullandım.Daha iyi bir model adına 16 ve 17. bölümdeki görüntüleri de eğitim sürecine ekleyerek yine daha iyi bir model elde edilebilir.
 
-[Sonuclar](https://github.com/makaay2077/Istanbul_Yol_Segmentasyon/blob/main/yol_segment.png)(https://github.com/makaay2077/Istanbul_Yol_Segmentasyon/blob/main/yol_segment2.png)
